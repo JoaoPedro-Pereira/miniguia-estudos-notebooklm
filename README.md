@@ -15,20 +15,40 @@ Esse MiniGuia foi criado com o intuito de enfatizar e aprofundar os meus estudos
 ### Perguntas Realizadas 
 1. O que é a internet ?
 
-2. Como a internet surgiu
+<img width="1110" height="793" alt="Screenshot from 2026-06-21 23-36-01" src="https://github.com/user-attachments/assets/1b6961b6-1e4e-4e3a-9203-96dd57efc5ab" />
 
-3. Como a internet funciona ?
+
+2. Como a internet surgiu ?
+
+<img width="1110" height="793" alt="Screenshot from 2026-06-21 23-37-21" src="https://github.com/user-attachments/assets/d5362ec3-b4a6-4c81-b69f-a49e89157d7f" />
+
+
+3. Como funciona o modelo TCP/IP na troca de dados?
+
+<img width="1097" height="875" alt="Screenshot from 2026-06-21 23-38-06" src="https://github.com/user-attachments/assets/3672a155-aacb-4923-8def-d793bcf3559a" />
+
 
 4. O que aconteceria se um país cortasse o próprio acesso global da rede internet ?
 
+<img width="1115" height="822" alt="image" src="https://github.com/user-attachments/assets/f70218d7-dcbb-4fcb-84ca-c9e222ac4c31" />
 
 
 ## MiniGuia de Estudos 
 
 ### Resumo Obtido do Assunto
 
+<img width="742" height="608" alt="image" src="https://github.com/user-attachments/assets/dca6308d-90d7-4e21-992c-0a9ccef8f8f9" />
+
+
 ### Conceitos Aprendidos
 
+<img width="613" height="847" alt="image" src="https://github.com/user-attachments/assets/3108858f-6112-42c6-a480-18a565978d63" />
+
+
 ### Prompts Reutilizáveis 
+
+1. Qual é a diferença fundamental entre a Internet e a Web?
+2. Como roteadores e modems trabalham juntos para nos conectar?
+3. Como funcionam os endereços IP e os nomes de domínio?
 
 
